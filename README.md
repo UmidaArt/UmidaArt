@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/umida-turdunalieva-ab1aa9235/?locale=en_US](https://www.linkedin.com/in/umida-turdunalieva-ab1aa9235/?locale=en_US)
 
-- ⚡ Fun fact **I love beautiful user-friendly interfaces, I know how to assemble and design them. Easily establish contact between design and development. Dedicated to learning additional technologies and expanding my knowledge.I using JavaScript (es6+), React, Redux and Typescript technologies.**
+- I love beautiful user-friendly interfaces, I know how to assemble and design them. Easily establish contact between design and development. Dedicated to learning additional technologies and expanding my knowledge.I using JavaScript (es6+), React, Redux and Typescript technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
