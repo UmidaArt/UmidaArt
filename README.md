@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Umida</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
+<h1 align="left">Hi 👋, I'm Umida</h1>
+<h3 align="leftr">Frontend developer</h3>
+<img align="right"  height="350" width="350" style="border-radius: 50px;" src="https://www.travelawaits.com/wp-content/uploads/2022/02/remote-work-balcony.jpg?resize=800%2C800"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umida&label=Profile%20views&color=0e75b6&style=flat" alt="umida" /> </p>
 
